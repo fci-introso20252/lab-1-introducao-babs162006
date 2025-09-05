@@ -1,0 +1,4 @@
+/workspaces/lab-1-introducao-babs162006/exemplos
+/workspaces/lab-1-introducao-babs162006
+/workspaces/lab-1-introducao-babs162006/docs
+/workspaces/lab-1-introducao-babs162006/outputs
