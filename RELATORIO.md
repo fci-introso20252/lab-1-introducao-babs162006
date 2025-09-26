@@ -23,17 +23,17 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 ### 🔍 Primeiras Impressões
 
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
-
+```
 O comando mais útil que eu aprendi foi o `ls -la`, pois permite ver todos os arquivos e diretórios, com detalhes.
-
+```
 **2. Qual comando você achou mais difícil de entender? Por quê?**
-
+```
 O comando grep foi um pouco difícil no começo, principalmente quando precisei buscar palavras em vários arquivos ao mesmo tempo ou mostrar os números das linhas. Ele exige entender um pouco de padrões e sintaxe, para conseguir filtrar exatamente o que você quer no conteúdo.
-
+```
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
-
+```
 Sim, consegui completar todos os exercícios.
-
+```
 ---
 
 ## 2️⃣ Parte 2 - Comparação Windows vs Linux
@@ -49,13 +49,13 @@ Sim, consegui completar todos os exercícios.
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
-
+```
 Para o dia a dia, prefiro usar Windows, porque é mais fácil de usar e intuitivo.
-
+```
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
-
+```
 O Linux é mais vantajoso quando se trata de servidores, automatizar tarefas, administrar sistemas, desenvolver software ou trabalhar com segurança, porque ele é flexível, estável e oferece muitas ferramentas poderosas no terminal.
-
+```
 ---
 
 ## 3️⃣ Parte 3 - Reflexões sobre Sistemas Operacionais
@@ -63,20 +63,20 @@ O Linux é mais vantajoso quando se trata de servidores, automatizar tarefas, ad
 ### 🎯 Importância para SI
 
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
-
+```
 Conhecer Linux é importante para um professional de Sistemas de Informação, pois, além de muitas empresas usarem servidores Linux, é essencial saber gerenciar arquivos, permissões, processos e automatizar tarefas para a administração de sistemas.
-
+```
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
-
+```
 O conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa ao automatizar tarefas do dia a dia, gerenciar processos de forma mais eficiente, diminuir erros manuais e deixar a manutenção e a segurança dos sistemas mais confiáveis.
-
+```
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
-
+```
 1. Servidores web
 2. Automação de backups
 3. Gerenciamento de redes
-
+```
 
 ---
 
@@ -86,9 +86,9 @@ O conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa ao 
 
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
-
+```
 Total de arquivos: 22
-
+```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
@@ -114,12 +114,13 @@ Tamanho: 40K
 ### 🔧 Experiência com Git
 
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
-
+```
 Sim, eu já tinha usado o Git Hub antes, para fazer um projeto do curso de lógica de programação em Python.
-
+```
 **2. Qual a importância do versionamento de código para empresas?**
-
+```
 O versionamento de código para empresa é essencial, pois permite acompanhar todas as alterações feitas, voltar a versões anteriores quando necessário, colaborar com outros desenvolvedores ao mesmo tempo, reduzir erros e manter um histórico organizado do desenvolvimento, garantindo mais clareza e confiabilidade no projeto.
+```
 ---
 
 ## 6️⃣ Parte 6 - Aplicações Futuras
@@ -127,24 +128,24 @@ O versionamento de código para empresa é essencial, pois permite acompanhar to
 ### 🚀 Próximos Passos
 
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
-
+```
 Usando comandos Linux, eu poderia automatizar a criação e organização de arquivos e diretórios.
-
+```
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
-
+```
 Sim, principalmente para desenvolvimento e administração de servidores, porque o Linux é estável, seguro e dá muito controle sobre o sistema.
-
+```
 
 ## 💡 Feedback do Laboratório
 
 **O que você achou mais interessante no laboratório?**
-
+```
 Achei interessante ver como comandos simples como `ls`, `grep` e `cat` podem ser combinados para realizar tarefas complexas de forma eficiente.
-
+```
 **O que poderia ser melhorado para próximos labs?**
-
+```
 Não sei o que poderia ser melhorada para os próximos labs. Achei tudo bem estruturado e explicado.
-
+```
 ---
 
 ## 📤 Checklist Final
